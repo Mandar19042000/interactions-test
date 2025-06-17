@@ -2,6 +2,7 @@
 connection: "inhouse_bi"
 
 # include all the views
+include: "/dashboards/*.dashboard.lookml"
 include: "/views/**/*.view.lkml"
 
 
