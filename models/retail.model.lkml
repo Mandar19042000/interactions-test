@@ -26,4 +26,3 @@ persist_with: retail_default_datagroup
 # Each joined view also needs to define a primary key.
 
 explore: retail_test {}
-
